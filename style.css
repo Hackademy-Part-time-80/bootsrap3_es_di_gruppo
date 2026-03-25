@@ -1,0 +1,7 @@
+/* #0092b8  */
+:root{
+    --bs-primary-rgb: rgba(0, 146, 184, 1) !important; 
+}
+.text-primary {
+    color: var(--bs-primary-rgb) !important;
+}
